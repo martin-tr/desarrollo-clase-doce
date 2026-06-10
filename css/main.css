@@ -13,6 +13,10 @@ header div a{
 
 }
 
+p{
+    color: whitesmoke;
+}
+
 /* estilos del contenedor */
 .contenedor{
     background-color: tomato;
